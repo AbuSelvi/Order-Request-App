@@ -35,18 +35,5 @@ The **Order Request App** standardizes product request workflows within organiza
 ### 🏠 Home Screen
 ![PRF Home](PRF%20Home%20screen.png)
 
-### 📝 Edit Screen
-![Edit Screen](Edit%20screen.png)
-
-### 📋 View Screen
-![View Screen](View%20Screen%20PRF.png)
-
-### 📦 Item Master Page
-![Item Master](Item%20Master%20Page.png)
-
 ### 🌐 Customs Page
 ![Customs Page](Customs%20Page.png)
-
-
-```markdown
-![Form](screenshots/form.png)
